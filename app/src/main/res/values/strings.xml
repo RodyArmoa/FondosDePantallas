@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Fondos de pantallas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Open navigation close</string>
+
+    <string name="desarrollador">Desarrollado por Rodrigo Armoa </string>
+
+
+    <!--Menu Admin-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registro</string>
+    <string name="ListarAdmin">Listar</string>
+    <string name="Salir">Salir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Menu Admin-->
+
+    <!--Menu Cliente-->
+    <string name="Opcionestxt">Opciones</string>
+    <string name="InicioCliente">Inicio</string>
+
+    <string name="MasOpcionestxt">Mas Opciones</string>
+    <string name="AcercaDe">Acerca de</string>
+    <string name="Compartir">Compartir</string>
+
+    <string name="Acceder">Acceder</string>
+    <!--Menu Cliente-->
+
+
+    <!--Registro de Administradores-->
+    <string name="RegistroTXT">Registro de Administradores</string>
+    <string name="Correo">Correo electronico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Apellido">Apellido completo</string>
+    <string name="Edad">Edad</string>
+    <string name="Fechaderegistro">Fecha De Registro</string>
+    <string name="Registrar">Registrar</string>
+    <!--Registro de Administradores-->
+
+
+    <!--Login de Administradores-->
+    <string name="LoginTXT">Login de Administradores</string>
+    <string name="Ingresar">Ingresar</string>
+
+
+    <!--Categorias-->
+    <string name="EligeunacategoriaTXT">Elge Categoria</string>
+    <string name="Peliculas">Peliculas</string>
+    <string name="Series">Series</string>
+    <string name="Videojuegos">Videojuegos</string>
+    <string name="Musica">Musica</string>
+
+
+    <!--Menu parte superior derecha-->
+    <string name="Agregar">Agregar</string>
+    <string name="Vista">Vista</string>
+
+    <!--Para Agregar Peliculas-->
+    <string name="NombreTXTPeliculas">Nombre de imagen</string>
+    <string name="NombrePeliculas">Escriba nombre aqui</string>
+    <string name="VistaPeliculas">0</string>
+    <string name="PublicarPeliculas">Publicar</string>
+
+    <!--Item Peliculas-->
+
+    <string name="NombreImagenPelicula"> -- </string>
+    <string name="VistaPelicula"> -- </string>
+
+
+    <!--Para Agregar Musica-->
+    <string name="NombreTXTMusica">Nombre de imagen</string>
+    <string name="NombreMusicas">Escriba nombre aqui</string>
+    <string name="VistaMusicas">0</string>
+    <string name="PublicarMusicas">Publicar</string>
+
+    <!--Item Musica-->
+    <string name="NombreImagen_Musica"> -- </string>
+    <string name="Vista_Musica"> -- </string>
+
+    <!--Para Agregar Series-->
+    <string name="NombreTXTSerie">Nombre de imagen</string>
+    <string name="NombreSerie">Escriba nombre aqui</string>
+    <string name="VistaSerie">0</string>
+    <string name="PublicarSerie">Publicar</string>
+
+    <!--Item Serie-->
+    <string name="NombreImagenSerieItem"> -- </string>
+    <string name="Vista_SerieItem"> -- </string>
+
+    <!--Para Agregar Videojuegos-->
+    <string name="NombreTXTVideojuegos">Nombre de imagen</string>
+    <string name="NombreVideojuegos">Escriba nombre aqui</string>
+    <string name="VistaVideojuegos">0</string>
+    <string name="PublicarVideojuegos">Publicar</string>
+
+    <!--Item Videojuegos-->
+    <string name="NombreImagenVideojuegoItem"> -- </string>
+    <string name="Vista_VideojuegoItem"> -- </string>
+</resources>

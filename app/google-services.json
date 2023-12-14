@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827993903947",
+    "project_id": "fondos-de-pantallas-9944a",
+    "storage_bucket": "fondos-de-pantallas-9944a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827993903947:android:5b64247d3af6f1a28e0ece",
+        "android_client_info": {
+          "package_name": "com.rodyandroid.fondosdepantallas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8KgZh3wmTwC9x_cjsSfVK__oryCxoY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
